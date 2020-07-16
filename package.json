@@ -1,0 +1,18 @@
+{
+  "name": "canadiansolar-webscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "Alexandre Diniz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "process": "^0.11.10",
+    "superagent": "^5.3.1"
+  }
+}
