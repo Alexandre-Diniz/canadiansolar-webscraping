@@ -1,0 +1,1 @@
+## API para web scraping dos módulos da Canadian Solar
